@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ColemanCox/5.2-Koans/issues"
   },
-  "homepage": "https://github.com/ColemanCox/5.2-Koans#readme"
+  "homepage": "https://github.com/ColemanCox/5.2-Koans#readme",
+  "devDependencies": {
+    "broccoli": "^0.16.5"
+  }
 }
